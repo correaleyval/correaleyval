@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=correaleyval" alt="correaleyval" /> </p>
 
-<!--
-**correaleyval/correaleyval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola! 👋 Soy Luis Correa Leyva</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Ciber Emprendedor. Desarrollador de software. Siempre inventando.
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=correaleyval&count_private=true&show_icons=true" alt="luis_ciber" /></p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=correaleyval&column=3" alt="luis_ciber" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=correaleyval&hide=html,css&layout=compact&langs_count=8" alt="luis_ciber" /> 
+</p>
+
+<p align="center"> <a href="https://correaleyval.github.io" target="blank"> <strong> Visite mi sitio web para saber más sobre mí </strong> </a> </p>
