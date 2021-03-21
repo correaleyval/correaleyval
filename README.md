@@ -1,7 +1,7 @@
-<h1 align="center">Hi! 👋 I'm Luis Correa Leyva</h1>
+# Hi! 👋 I'm Luis Antonio Correa Leyva
 
-<h3 align="center">
-  Computer Science student. Software Developer. Developing applications with Flutter and learning Data Science.
-</h3>
+### Computer Scientist. Software Developer. Developing applications with Flutter and looking for Data Science projects.
 
-<p align="center"> <a href="https://correaleyval.github.io" target="blank"> <strong> Visit my website </strong> </a> </p>
+<codersrank-summary username="correaleyval"></codersrank-summary>
+
+I like to program in different languages like **Dart**, **Python**, **Javascript**/**TypeScript**, **Ruby** and any new interesting language.
